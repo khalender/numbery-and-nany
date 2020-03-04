@@ -1,0 +1,1 @@
+document.getElementById("but").addEventListener("click", proceed);
